@@ -1,6 +1,6 @@
 # Olá, eu sou o Willian! 📊🚀
 
-Sou um profissional com forte base analítica que encontrou na área de dados a ferramenta ideal para resolver problemas complexos[cite: 1]. Unindo o entendimento do comportamento humano com a precisão da tecnologia, atuo no design de soluções desde a extração até a tomada de decisão[cite: 2]. Atualmente, curso graduação em **Banco de Dados** para consolidar essa transição técnica[cite: 1].
+Sou um profissional com forte base analítica que encontrou na área de dados a ferramenta ideal para resolver problemas complexos[cite: 1]. Unindo o entendimento do comportamento humano com a precisão da tecnologia, atuo no design de soluções desde a extração até a tomada de decisão[cite: 2]. Atualmente, curso graduação em **Banco de Dados** para consolidar essa transição técnica.
 
 ## 🎯 Meu Foco Atual
 - **Gestão de Dados Relacionais e NoSQL:** Especialização em modelagem e administração de sistemas como MySQL, PostgreSQL, SQL Server e Oracle Cloud[cite: 2].
