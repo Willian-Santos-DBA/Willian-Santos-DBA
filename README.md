@@ -7,6 +7,7 @@ Sou um profissional com forte base analítica que encontrou na área de dados a 
 - **Arquitetura e Engenharia de Dados:** Desenvolvimento de pipelines de ETL, automação com PowerShell e uso de containers com Docker para escalabilidade.
 - **Ciência de Dados e IA:** Aplicação de Machine Learning, Processamento de Linguagem Natural (NLP) e análise preditiva utilizando Python e Databricks.
 - **Business Intelligence:** Transformação de dados brutos em insights estratégicos através de Power BI, Tableau e análise exploratória.
+- **Data Quality & Deep Learning:** Implementação de técnicas de limpeza de dados (Imputação) e arquiteturas de Redes Neurais (MLP) para Visão Computacional.
 
 ## 🛠️ Stack Tecnológico
 
@@ -21,6 +22,12 @@ Sou um profissional com forte base analítica que encontrou na área de dados a 
 
 ### Business Intelligence
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### Deep Learning & Data Quality 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 📚 Formação Acadêmica
 - **Graduação em Banco de Dados** – Matriz Curricular focada em Data Science, Big Data e DataOps, IA, Engenharia e Administração de Dados.
