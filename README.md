@@ -3,11 +3,11 @@
 Sou um profissional com forte base analítica que encontrou na área de dados a ferramenta ideal para resolver problemas complexos. Unindo o entendimento do comportamento humano com a precisão da tecnologia, atuo no design de soluções desde a extração até a tomada de decisão. Atualmente, curso graduação em **Banco de Dados** para consolidar essa transição técnica.
 
 ## 🎯 Meu Foco Atual
-- **Gestão de Dados Relacionais e NoSQL:** Especialização em modelagem e administração de sistemas como MySQL, PostgreSQL, SQL Server e Oracle Cloud.
-- **Arquitetura e Engenharia de Dados:** Desenvolvimento de pipelines de ETL, automação com PowerShell e uso de containers com Docker para escalabilidade.
-- **Ciência de Dados e IA:** Aplicação de Machine Learning, Processamento de Linguagem Natural (NLP) e análise preditiva utilizando Python e Databricks. Análise Estatística Descritiva e Inferencial para suporte à tomada de decisão e validação de modelos de IA.
-- **Business Intelligence:** Transformação de dados brutos em insights estratégicos através de Power BI, Tableau e análise exploratória.
-- **Data Quality & Deep Learning:** Implementação de técnicas de limpeza de dados (Imputação) e arquiteturas de Redes Neurais (MLP) para Visão Computacional.
+- **Data Science & Analytics:** Transformação de dados brutos em inteligência de negócios. Desenvolvimento de modelos de Machine Learning, Deep Learning e Redes Neurais, aplicando estatística avançada e BI para a tomada de decisões estratégicas.
+- **Administração de Banco de Dados:** Modelagem e gestão de bancos de dados relacionais e não relacionais (NoSQL), criando bases sólidas que alimentam soluções de IA.
+- **Cloud Security & Infraestrutura de IA:** Desenho de arquiteturas de nuvem blindadas. Implementação de criptografia, isolamento de rede e controle de acessos (IAM) para proteger bancos vetoriais e dados em tempo de inferência.
+- **Governança & AI Compliance:** Garantia de total conformidade com a LGPD. Aplicação de técnicas de Data Anonymization e Federated Learning para treinar modelos com ética e privacidade.
+- **Mitigação de Riscos de Inteligência Artificial:** Atuação ofensiva/defensiva contra ameaças exclusivas da IA (Prompt Injection, Data Poisoning, Model Inversion), unindo o entendimento da falha cognitiva humana à segurança da máquina.
 
 ## 🛠️ Stack Tecnológico
 
@@ -31,8 +31,8 @@ Sou um profissional com forte base analítica que encontrou na área de dados a 
 ![Statistics](https://img.shields.io/badge/Statistics-%23003545.svg?style=for-the-badge&logo=charts&logoColor=white)
 
 ## 📚 Formação Acadêmica
-- **Graduação em Banco de Dados** – Matriz Curricular focada em Data Science, Big Data e DataOps, IA, Engenharia e Administração de Dados.
-- **Graduação em Psicologia** – Especialista em Análise do Comportamento.
+- **Graduação em Banco de Dados** – Matriz Curricular focada em Data Science & Analytics, Administração de Banco de Dados, Cloud Security & Infraestrutura de IA, Governança & AI Compliance e Mitigação de Riscos de Inteligência Artificial.
+- **Graduação em Psicologia** – Pós-Graduado em Terapia Cognitivo-Comportamental e Análise do Comportamento Aplicada.
 
 ## 🚀 Projetos em Destaque
 - **Sistema de Gestão Clínica:** Modelagem e implementação de um banco de dados completo para clínicas, integrando níveis de acesso (RBAC), auditoria e análise de sentimentos em prontuários via NLP.
